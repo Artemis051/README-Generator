@@ -5,3 +5,5 @@ This project allows helps users generate README descriptions based on the inform
 
 ## Questions
 If you have any questions, you can reach me at aekatsi@gmail.com. Visit my GitHub profile at [artemis051](https://github.com/artemis051).
+
+<img Screenshot 2023-12-06 at 4.34.57 PM.png>
